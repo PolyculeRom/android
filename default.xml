@@ -21,7 +21,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="PolyculeRom/android" remote="github" revision="poly1 />
+  <project path="android" name="PolyculeRom/android" remote="github" revision="poly1" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
   <project path="bionic" name="CyanogenMod/android_bionic" />
