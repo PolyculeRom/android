@@ -307,7 +307,6 @@
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
-  <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" />
   <project path="packages/apps/SmartCardService" name="CyanogenMod/android_packages_apps_SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpareParts" name="CyanogenMod/android_packages_apps_SpareParts" />
@@ -384,6 +383,9 @@
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
 
   <!-- Poly -->
+  <project path="packages/apps/Settings" name="PolyculeRom/android_packages_apps_Settings" remote="github" revision="poly1" />
+  
+  
   <!-- Galaxy Note -->
   <project name="PolyculeRom/android_device_samsung_msm8660-common" path="device/samsung/msm8660-common" remote="github" revision="poly1" />
   <project name="PolyculeRom/android_device_samsung_quincyatt" path="device/samsung/quincyatt" remote="github" revision="poly1" />
