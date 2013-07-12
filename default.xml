@@ -387,4 +387,7 @@
   <project name="PolyculeRom/android_device_samsung_quincyatt" path="device/samsung/quincyatt" remote="github" revision="poly1" />
   <project name="PolyculeRom/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="poly1" />
   <project name="PolyculeRom/android_device_samsung_quincy-common" path="device/samsung/quincy-common" remote="github" revision="poly1" />
+  <project name="PolyculeRom/proprietary_vendor_lge.git" path="vendor/lge" remote="github" revision="poly1"/>
+  <project name="PolyculeRom/android_device_lge_mako" path="device/lge/mako" remote="github" revision="poly1"/>
+  <project name="PolyculeRom/lge-kernel-mako" path="kernel/lge/mako" remote="github" revision="poly1"/>
 </manifest>
