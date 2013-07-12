@@ -6,7 +6,7 @@ Getting Started
 
 To initialize your local repository:
 
-    repo init -u git://github.com/PolyculeRom/android.git -b cm-10.1
+    repo init -u git://github.com/PolyculeRom/android.git -b poly1
 
 Download source
 ---------------
