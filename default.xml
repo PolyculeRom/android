@@ -390,4 +390,5 @@
   <project name="PolyculeRom/proprietary_vendor_lge.git" path="vendor/lge" remote="github" revision="poly1"/>
   <project name="PolyculeRom/android_device_lge_mako" path="device/lge/mako" remote="github" revision="poly1"/>
   <project name="PolyculeRom/lge-kernel-mako" path="kernel/lge/mako" remote="github" revision="poly1"/>
+  <project name="PolyculeRom/android_device_oppo_find5" path="device/oppo/find5" remote="github" revision="poly1" />
 </manifest>
