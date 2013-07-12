@@ -413,7 +413,6 @@
   <!-- S3ATT -->
   <project path="device/samsung/d2-common" name="PolyculeRom/android_device_samsung_d2-common" remote="github" revision="poly1" />
   <project path="device/samsung/d2att" name="PolyculeRom/android_device_samsung_d2att" remote="github" revision="poly1" />
-  <project path="device/samsung/qcom-common" name="PolyculeRom/android_device_samsung_qcom-common" remote="github" revision="poly1" />
   <project path="device/samsung/msm8960-common" name="PolyculeRom/android_device_samsung_msm8960-common" remote="github" revision="poly1" />
   <project path="kernel/samsung/d2" name="PolyculeRom/android_kernel_samsung_d2" remote="github" revision="poly1" />
   
