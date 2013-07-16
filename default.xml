@@ -417,6 +417,11 @@
   <project path="device/samsung/msm8960-common" name="PolyculeRom/android_device_samsung_msm8960-common" remote="github" revision="poly1" />
   <project path="kernel/samsung/d2" name="PolyculeRom/android_kernel_samsung_d2" remote="github" revision="poly1" />
   
+  <!-- Prime -->
+  <project path="device/asus/tf201" name="PolyculeRom/android_device_asus_tf201" remote="github" revision="poly1" />
+  <project path="vendor/asus" name="PolyculeRom/proprietary_vendor_asus" remote="github" revision="poly1" />
+  <project path="kernel/asus/tf201" name="PolyculeRom/android_kernel_asus_tf201" remote="github" revision="poly1" />
+  
   <!-- Samsung Proprietary -->
   <project path="vendor/samsung" name="PolyculeRom/proprietary_vendor_samsung" remote="github" revision="poly1" />
 
