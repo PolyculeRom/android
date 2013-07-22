@@ -398,7 +398,7 @@
   <project name="htc-msm8960/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-10.1" />
   <!-- Nexus4 -->
   <project path="device/lge/mako" name="PolyculeRom/android_device_lge_mako" remote="github" revision="poly1" />
-  <project name="PolyculeRom/proprietary_vendor_lge.git" path="vendor/lge" remote="github" revision="poly1"/>
+  <project name="PolyculeRom/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="poly1"/>
   <project path="kernel/lge/mako" name="PolyculeRom/lge-kernel-mako" remote="github" revision="poly1" />
   <!-- Find5 -->
   <project path="device/oppo/find5" name="PolyculeRom/android_device_oppo_find5" remote="github" revision="poly1" />
